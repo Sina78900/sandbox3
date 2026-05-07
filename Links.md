@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-07 23:02 IR
+- 🗜️ [GooseRelayVPN-client-v1.5.0-windows-amd64.zip](https://github.com/Sina78900/sandbox3/raw/main/dl/GooseRelayVPN-client-v1.5.0-windows-amd64.zip) `2.2MB`
+
+---
+
+
 ### 📅 2026-05-07 18:32 IR
 - 🎬 [video-2026-05-07_14-55-55.mp4](https://github.com/Sina78900/sandbox3/raw/main/dl/video-2026-05-07_14-55-55.mp4) `20.6MB`
 
